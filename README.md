@@ -1,16 +1,12 @@
-## 📈 Project Summary
-This project predicts future Bitcoin prices using historical market data.
-Converted raw time-series market data into a supervised learning problem by shifting the closing price.
-Used Linear Regression as a baseline model for prediction.
+# Machine Learning Projects
 
-## 📊 Dataset
-Source: Kaggle
-Dataset: Bitcoin Historical Price Data
-File Used: btcusd_1-min_data.csv
+## Overview
+This repository contains my machine learning practice projects as I learn and apply ML concepts through real-world datasets.
 
-## 🛠️ Technologies Used
-Python
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
